@@ -50,7 +50,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/reconbuddy.git
+bashgit clone https://github.com/v44-s/reconbuddy.git
 cd reconbuddy
 
 Compile:
